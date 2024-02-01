@@ -442,7 +442,8 @@
 				DEVELOPMENT_TEAM = MG35RT5N6W;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TravelMadeEasy/Info.plist;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "We use loaction to get directions";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We use location";
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -470,7 +471,8 @@
 				DEVELOPMENT_TEAM = MG35RT5N6W;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TravelMadeEasy/Info.plist;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "We use loaction to get directions";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We use location";
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
